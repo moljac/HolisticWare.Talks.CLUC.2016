@@ -1,0 +1,3 @@
+[submodule "external/bat"]
+	path = external/bat
+	url = https://github.com/moljac/bat.git
